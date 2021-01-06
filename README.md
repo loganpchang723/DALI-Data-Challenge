@@ -17,3 +17,6 @@ As part of my application to the Dartmouth DALI Lab, I chose to do the data chal
 
 ## Usage/Viewing
 Really all that’s needed is to look in the ***notebooks*** folder and follow the notebooks in sequential order. Code and commentary are in all the notebooks.
+
+## References
+GP Transformer: [GPLearn documentation](https://gplearn.readthedocs.io/en/stable/intro.html#transformer)
